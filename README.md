@@ -115,7 +115,7 @@ The dataset consists of MRI images categorized as:
 - [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929)
 - [Google Research](https://github.com/google-research/vision_transformer?utm_source=catalyzex.com)
 - [GoogleNet](https://arxiv.org/abs/1409.4842)
-- [Kaggle Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ahmedsorour1/mri-for-brain-tumor-with-bounding-boxes))
+- [Kaggle Dataset](https://www.kaggle.com/datasets/ahmedsorour1/mri-for-brain-tumor-with-bounding-boxes)
 
 ---
 
